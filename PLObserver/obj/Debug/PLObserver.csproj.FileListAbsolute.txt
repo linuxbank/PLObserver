@@ -1,0 +1,10 @@
+c:\users\pper\documents\visual studio 2013\Projects\PLObserver\PLObserver\bin\Debug\PLObserver.exe
+c:\users\pper\documents\visual studio 2013\Projects\PLObserver\PLObserver\bin\Debug\PLObserver.pdb
+c:\users\pper\documents\visual studio 2013\Projects\PLObserver\PLObserver\obj\Debug\PLObserver.Form1.resources
+c:\users\pper\documents\visual studio 2013\Projects\PLObserver\PLObserver\obj\Debug\PLObserver.Properties.Resources.resources
+c:\users\pper\documents\visual studio 2013\Projects\PLObserver\PLObserver\obj\Debug\PLObserver.csproj.GenerateResource.Cache
+c:\users\pper\documents\visual studio 2013\Projects\PLObserver\PLObserver\obj\Debug\PLObserver.exe
+c:\users\pper\documents\visual studio 2013\Projects\PLObserver\PLObserver\obj\Debug\PLObserver.pdb
+C:\Users\pper\Documents\Visual Studio 2013\Projects\PLObserver\PLObserver\obj\Debug\PLObserver.csprojResolveAssemblyReference.cache
+C:\Users\pper\Desktop\배포용\PLObserver\PLObserver\obj\Debug\PLObserver.exe
+C:\Users\pper\Desktop\배포용\PLObserver\PLObserver\obj\Debug\PLObserver.pdb
