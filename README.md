@@ -1,6 +1,8 @@
 # PLObserver
 OCR Observer part
 
+GNU(Gnu is Not Unix) General Public License(GPL)
+
 
 # A .NET wrapper for tesseract-ocr_License
 Copyright 2012-2014 Charles Weld.
